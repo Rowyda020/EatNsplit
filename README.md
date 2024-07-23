@@ -57,7 +57,7 @@ The application should now be running on `http://localhost:3000`.
 5. Click "Split Bill" to see the amount each friend owes.
 
 ## Example 
-<center> <img width="946" alt="demo" src="![Screenshot 2024-07-23 104548](https://github.com/user-attachments/assets/e6f8daea-74d3-436e-ba1f-8cbceeaa4acb)"> </center>
+<center> <img width="946" alt="demo" src="https://th.bing.com/th/id/OIP.PEjNFhjwJZ-nSlbOZEC3GwHaDu?rs=1&pid=ImgDetMain"> </center>
 
 ### Reporting Bugs
 
