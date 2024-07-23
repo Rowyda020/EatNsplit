@@ -57,7 +57,8 @@ The application should now be running on `http://localhost:3000`.
 5. Click "Split Bill" to see the amount each friend owes.
 
 ## Example 
-<center> <img width="946" alt="demo" src="https://github.com/Thiru-kumaran-R/Eat-N-Split/assets/114419114/985cce62-2af1-4ff4-9c23-66f773fc549f"> </center>
+<center> <img width="946" alt="demo" src="![image](https://github.com/user-attachments/assets/9d714be9-3696-4769-84be-b89e4b632164)
+"> </center>
 
 ### Reporting Bugs
 
