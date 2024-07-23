@@ -1,31 +1,65 @@
+# Eat-N-Split
 
-## Available Scripts
+Eat-N-Split is an application designed to help friends eat together and split their bill effortlessly. Whether you're dining out or ordering in, Eat-N-Split makes the process of sharing expenses simple and transparent.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Bill Splitting**: Easily split the total bill among friends.
+- **Custom Splits**: Customize how the bill is split based on each person's order.
+- **Multi-Currency Support**: Split bills in different currencies.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To install the Eat-N-Split application, follow these steps:
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Node.js (version 14 or higher)
+- npm (version 6 or higher)
+- Git
 
-### `npm run build`
+### Steps
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    ```bash
+    git clone https://github.com/yourusername/eat-n-split.git
+    ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Navigate to the project directory:
 
-### `npm run eject`
+    ```bash
+    cd eat-n-split
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the application:
+
+    ```bash
+    npm start
+    ```
+
+The application should now be running on `http://localhost:3000`.
+
+## Usage
+
+### Creating a New Bill
+
+1. Open the Eat-N-Split app.
+2. Click on the "select" button.
+3. Enter the total amount and the names of the friend sharing the bill.
+4. Add items and assign them to friend as needed.
+5. Click "Split Bill" to see the amount each friend owes.
+
+## Example 
+<center> <img width="946" alt="demo" src="https://github.com/Thiru-kumaran-R/Eat-N-Split/assets/114419114/985cce62-2af1-4ff4-9c23-66f773fc549f"> </center>
+
+### Reporting Bugs
+
+If you find a bug, please open an issue on GitHub and include detailed steps to reproduce the issue.
+
