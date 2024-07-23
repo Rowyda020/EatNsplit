@@ -1,6 +1,6 @@
-# Eat-N-Split
+# EatNsplit
 
-Eat-N-Split is an application designed to help friends eat together and split their bill effortlessly. Whether you're dining out or ordering in, Eat-N-Split makes the process of sharing expenses simple and transparent.
+EatNsplit is an application designed to help friends eat together and split their bill effortlessly. Whether you're dining out or ordering in, EatNsplit makes the process of sharing expenses simple and transparent.
 
 ## Features
 
